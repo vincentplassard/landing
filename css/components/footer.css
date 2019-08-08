@@ -1,0 +1,34 @@
+.footer {
+  width: 100%;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1f2528;
+  color: white;
+  margin: 0;
+}
+
+.footer > ul {
+  font-size: 30px;
+  color: #c3d8b7;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style-type: none;
+  padding: 25px;
+}
+
+li {
+  padding: 10px;
+}
+
+#post-scriptum {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1f2528;
+  color: white;
+  margin: 0;
+}
